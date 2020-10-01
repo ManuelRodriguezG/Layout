@@ -1,0 +1,29 @@
+		/**
+		 * Carrusel
+		 */
+		 #carouselExampleIndicators .carousel-control-prev{
+		 	width: 40px;
+		 	height: 40px;
+		 	top: 50%;
+		 	background: #000000;
+		 	border-radius: 2px;
+		 	left: 3%;
+		 }
+		 #carouselExampleIndicators .carousel-control-next{
+		 	width: 40px;
+		 	height: 40px;
+		 	top: 50%;
+		 	background: #000000;
+		 	border-radius: 2px;
+		 	right: 3%;
+		 }
+		 #carouselExampleIndicators . li.active{
+		 	border:2px solid white;
+		 	background: transparent;
+		 	margin-top: 8px;
+		 }
+		 .carousel-indicators li{
+		 	width: 10px !important;
+		 	height: 10px !important;
+		 	border-radius: 100% ;
+		 }
